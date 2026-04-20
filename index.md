@@ -2,6 +2,23 @@
 layout: default
 ---
 
+Greetings! My name is Yung-Cheng Ernie Lu. I’m currently a second year PhD candidate at the Department of Mechanical Engineering at UCLA. 
+
+I have the privilege of working with Dr. Kyle Yoshida. My research focuses on 
+
+Dr. Hongquan Xu. My research focuses on space-filling designs and their applications in machine learning. Specifically, I develop space-filling designs with good projection properties and tools to better systematically rank designs.
+
+Best way to reach me is by email to enrielu@ucla.com.
+
+My research interests include:
+
+Human computer interaction
+Microfluids
+
+
+
+--------------------------------------------------
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
