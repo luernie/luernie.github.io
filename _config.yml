@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "yung-Cheng Ernie Lu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "2nd year PhD student at UCLA Mechanical Engineering"
+  location         : "Los Angeles"
+  employer         : "University of California - Los Angeles"
   uri              : # URL
   email            : "none@example.org" 
 
